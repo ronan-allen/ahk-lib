@@ -1,2 +1,2 @@
 # ahk-lib
-AutoHotkey Library
+[AutoHotkey](https://www.autohotkey.com/) Library
